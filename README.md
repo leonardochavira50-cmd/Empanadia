@@ -316,7 +316,8 @@
           </p>
         </div>
 
-        <!-- PEGA AQUÍ EL CÓDIGO DE INSERCIÓN DE BOTPRESS -->
+        <!--  --<script src="https://cdn.botpress.cloud/webchat/v5.0/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2026/11/24/05/20261124055625-UN4KXAED.js" defer></script>
       </div>
     </section>
   </main>
